@@ -1,2 +1,4 @@
 # Windows
-This is the simple Windows animation website. That we used in laptop or desktop on daiy basis. I build this webiste by using HTML, CSS and JavaScript
+This is a simple Windows animation website. We use it on a laptop or desktop on a daily basis. I built this website using HTML, CSS, and JavaScript.
+
+Live site link : https://658aaff3727b004034888af2--silver-cocada-f3a808.netlify.app/
